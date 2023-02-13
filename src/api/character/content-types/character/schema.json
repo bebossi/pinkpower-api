@@ -22,15 +22,18 @@
       "type": "string"
     },
     "imageURL": {
-      "type": "string"
+      "type": "text"
     },
     "videoURL": {
-      "type": "string"
+      "type": "text"
     },
     "description": {
       "type": "text"
     },
     "curiosity": {
+      "type": "text"
+    },
+    "gifURL": {
       "type": "text"
     }
   }
